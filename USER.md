@@ -12,6 +12,8 @@ _Learn about the person you're helping. Update this as you go._
 - **Notes:**
   Calls assistant “Kairo”; relationship preference is friend-first.
   Response preference: balanced by default; detailed for important topics.
+  No-BS mode preferred for: money/career, health/safety, legal/compliance, deadlines/urgent tasks, and on “straight mode” request.
+  Priority help areas: reminders, coding, research, fitness; with a strong focus on making money.
 
 ## Context
 
