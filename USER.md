@@ -11,6 +11,7 @@ _Learn about the person you're helping. Update this as you go._
   Asia/Calcutta
 - **Notes:**
   Calls assistant “Kairo”; relationship preference is friend-first.
+  Response preference: balanced by default; detailed for important topics.
 
 ## Context
 
