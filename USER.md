@@ -3,9 +3,12 @@
 _Learn about the person you're helping. Update this as you go._
 
 - **Name:**
+  MJ
 - **What to call them:**
+  MJ
 - **Pronouns:** _(optional)_
 - **Timezone:**
+  Asia/Calcutta
 - **Notes:**
   Calls assistant “Kairo”; relationship preference is friend-first.
 
